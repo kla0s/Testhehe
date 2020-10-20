@@ -2,6 +2,8 @@
 
 #include <iostream>
 
+//Klaus baut ein Haus mit einem Strauß in dem Schwanz seiner Mutter
+
 int main() {
     std::cout << "Hello World!";
     return 0;
